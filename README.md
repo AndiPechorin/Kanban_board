@@ -1,6 +1,6 @@
 Ссылка на gh-pages:
 
-https://kivavlad.github.io/Kanban_board/
+https://andipechorin.github.io/Kanban_board/
 
 Основные задачи: 
 
