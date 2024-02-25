@@ -2,7 +2,7 @@
   "name": "kanban-board",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://KivaVlad.github.io/Kanban_board",
+  "homepage": "https://andipechorin.github.io/Kanban_board/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
