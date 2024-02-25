@@ -12,7 +12,7 @@ export const Footer = (props) => {
             </div>
             <div>
                 <span>Kanban board by :
-                    <a href='https://github.com/KivaVlad'> KIVA VLAD</a>
+                    <a href='https://github.com/AndiPechorin'> ANDI PECHORIN</a>
                 </span>
             </div>
         </footer>
